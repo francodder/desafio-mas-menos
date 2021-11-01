@@ -14,8 +14,8 @@ El desafío fue resuelto utilizando NodeJs + Express + Typescript. Se creo una e
 
 ### Pruebas
 Puede hacer peticiones POST al endpoint: <br/>
-`https://mas-menos.herokuapp.com/api/masMenos` <br/>
-`https://mas-menos.herokuapp.com/api/masMenos` <br/>
+`http://localhost:8080/api/masMenos` **(Local)**<br/>
+`https://mas-menos.herokuapp.com/api/masMenos` **(Heroku)**<br/>
 Adjunto colección de postman de ejemplo para realizar las peticiones tanto localmente como a heroku<br/>
 <a href="https://www.mediafire.com/file/t5u6iftqrqu9393/collection.json/file" target="_blank">Descargar</a> <br/>
 <a href="https://youtu.be/IJfI4BsxSgE?t=103" target="_blank">Postman: Como importar colección</a>
