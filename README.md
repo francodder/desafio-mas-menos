@@ -17,7 +17,7 @@ Podés hacer peticiones POST al endpoint: <br/>
 `https://mas-menos.herokuapp.com/api/masMenos` <br/>
 Adjunto colección de postman de ejemplo para realizar las peticiones. <br/>
 <a href="https://www.mediafire.com/file/t9oc3316hzcwohc/Mas_Menos.postman_collection.json/file" target="_blank">Descargar</a> <br/>
-<a href="https://youtu.be/IJfI4BsxSgE?t=103" target="_blank">Como importar colección a Posman</a>
+<a href="https://youtu.be/IJfI4BsxSgE?t=103" target="_blank">Postman: Como importar colección</a>
 
 
 ## Despliegue Local
