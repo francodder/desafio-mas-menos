@@ -12,10 +12,10 @@ El desafío consiste en crear una función que reciba un array numérico y devue
 ## Solución
 El desafío fue resuelto utilizando NodeJs + Express + Typescript. Se creo una estructura API REST escalable con una entidad llamada 'mas-menos' que se encarga de realizar los cálculos necesarios. La API fue publicada en heroku.
 
-### Endpoint
-Podés hacer peticiones POST al endpoint: <br/>
+### Pruebas
+Puede hacer peticiones POST al endpoint: <br/>
 `https://mas-menos.herokuapp.com/api/masMenos` <br/>
-Adjunto colección de postman de ejemplo para realizar las peticiones. <br/>
+Adjunto colección de postman de ejemplo para realizar las peticiones tanto localmente como a heroku<br/>
 <a href="https://www.mediafire.com/file/t9oc3316hzcwohc/Mas_Menos.postman_collection.json/file" target="_blank">Descargar</a> <br/>
 <a href="https://youtu.be/IJfI4BsxSgE?t=103" target="_blank">Postman: Como importar colección</a>
 
