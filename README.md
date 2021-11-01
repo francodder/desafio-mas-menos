@@ -13,7 +13,7 @@ El desafío consiste en crear una función que reciba un array numérico y devue
 El desafío fue resuelto utilizando NodeJs + Express + Typescript. Se creo una estructura API REST escalable con una entidad llamada 'mas-menos' que se encarga de realizar los cálculos necesarios. La API fue publicada en heroku.
 
 ### Pruebas
-Puede hacer peticiones POST las rutas: <br/>
+Puede hacer peticiones POST a las rutas: <br/>
 `http://localhost:8080/api/masMenos` **(Local)**<br/>
 `https://mas-menos.herokuapp.com/api/masMenos` **(Heroku)**<br/>
 Adjunto colección de postman de ejemplo para realizar las peticiones tanto localmente como a heroku<br/>
@@ -27,3 +27,4 @@ Adjunto colección de postman de ejemplo para realizar las peticiones tanto loca
 3. Dentro del directorio del proyecto ejecutar el comando `npm install`
 4. Ejecutar `npm start`
 5. Listo! El proyecto estará corriendo en el puerto 8080
+6. Ya puedes hacer peticiones localmente
