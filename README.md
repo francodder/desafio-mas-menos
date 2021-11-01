@@ -1,5 +1,4 @@
-# Mas Menos app
-Esta app es el resultado de un desafío técnico.
+# Ejercicio 1
 
 ## Consigna
 El desafío consiste en crear una función que reciba un array numérico y devuelva otro con las siguientes fracciones en el orden especificado:
